@@ -2,6 +2,7 @@
 
 The Decameron Collective is a group of nine scholars and artists and our developer who have engaged in a weekly practice of collaborating, co-creating, and curating since March of 2020. Together, we have built and exhibited two digital storyworlds, run workshops, write scholarly papers, and experiment with AI.   
 
+
 **Jolene Armstrong** 
 * PhD University of Alberta, Comparative Literature, 2003
 * BA, University of Alberta, Anthropology, 1992
