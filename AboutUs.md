@@ -4,7 +4,7 @@ The Decameron Collective is a group of nine scholars and artists and our develop
 
 <img width="5809" height="3284" alt="The Decameron Collective portrait" src="https://github.com/user-attachments/assets/2bd53637-a5a1-47f8-bbf5-c633b40b3914" />   
 From left top: Caitlin Fisher, Monique Tschofen, Kari Maaren / Izabella Pruska-Oldenhof, Jolene Armstrong, Angela Joosse / Lai-Tze Fan, Siobhan O'Flynn, Kelly Egan  
-
+  
 **Jolene Armstrong**  
 -PhD University of Alberta, Comparative Literature, 2003  
 -BA, University of Alberta, Anthropology, 1992  
