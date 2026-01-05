@@ -1,14 +1,16 @@
 # Memory Eternal
-Memory Eternal | Вічна Пам'ять (2023) is a VR world designed for Oculus by the [Decameron Collective](https://www.decameroncollective.com/).  This work emerges in the wake of a global trauma, and expresses grieving at two scales – personal and collective. In the wake of crises, what do we want to remember and how? What futures should we imagine? How does care ground a wounded world?
+Memory Eternal | Вічна Пам'ять (2023) is a deeply intimate work of electronic literature and research co-creation that results from years-long conversations, inquiry, and artistic experimentation between the members of the [Decameron Collective](https://www.decameroncollective.com/), designed for Oculus VR.
+
+The generation of the world and works in it is the product of a speculative feminist praxis asking what important relationships to the past and what forms of futurity can be attained through digital storytelling and research co-creation. Here, group members experiment with interactive forms for memory work rooted in an epistemology of hope. In individually and collectively-created works, they develop a collaborative vision of how we can move through grieving to collectivity and growth. Interactants journeys in the VR world take them through experiences of mourning, sitting with, and awakening to new futures. 
 
 ## Exhibitions:   
-    - Electronic Literature Organization Conference and Media Arts Festival, Coimbra, Portugal, July 12-15, 2023.​
-    - New Media Prize Unconference, UK, May 15, 2024.
-    - Interactive Film and Media Conference, Toronto, Canada, June 11-14, 2024.
-    - RUBIX 10th Anniversary, Catalyst, Toronto, Canada, February 27, 2025
+* Electronic Literature Organization Conference and Media Arts Festival, Coimbra, Portugal, July 12-15, 2023.​
+* New Media Prize Unconference, UK, May 15, 2024.
+* Interactive Film and Media Conference, Toronto, Canada, June 11-14, 2024.
+* RUBIX 10th Anniversary, Catalyst, Toronto, Canada, February 27, 2025
 ## Awards:
-    Shortlist - Wonderbox Opening Up Interactive Fiction -  New Media Writing Prize (UK) (2023)
-    Winner - Digital Humanities Awards (2023)
+* Shortlist - Wonderbox Opening Up Interactive Fiction -  New Media Writing Prize (UK) (2023)
+* Winner - Digital Humanities Awards -- Best Use of a for Fun (2023)
 
 ## To play Memory Eternal VR - Instructions:
 
