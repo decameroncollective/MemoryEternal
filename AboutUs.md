@@ -1,6 +1,6 @@
 # About us  
 
-The Decameron Collective is a group of nine scholars and artists and our developer who have engaged in a weekly practice of collaborating, co-creating, and curating since March of 2020. Together, we have built and exhibited two digital storyworlds, run workshops, write scholarly papers, and experiment with AI.   
+The Decameron Collective is a group of nine scholars and artists and our developer who have engaged in a weekly practice of collaborating, co-creating, and curating since March of 2020. Together, we have built and exhibited two digital storyworlds, an anthology of deformances, and an installation with augmented reality, run workshops, and we also collaborate on scholarly papers.   
 
 <img width="5809" height="3284" alt="The Decameron Collective portrait" src="https://github.com/user-attachments/assets/2bd53637-a5a1-47f8-bbf5-c633b40b3914" />   
 
