@@ -13,3 +13,4 @@ The world runs on an Oculus Quest 2 tethered to a PC desktop or laptop computer 
 3) Connect the Oculus headset to your PC via a link cable. Select “enable link” (which means that your headset can run off the PC.)
 
 4) Double click on the unzipped "Memory_Eternal.exe" to run. You will first get a "Made in Unity" loading screen and then the world will launch. You should be able to see it both on the computer screen and also in the headset.
+<img width="1660" height="959" alt="MemoryEternal_Controllers_DRAFT-aj02" src="https://github.com/user-attachments/assets/b24a697a-c45f-4611-aa03-8a437ec924cd" />
