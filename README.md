@@ -30,4 +30,4 @@ The world runs on an Oculus Quest 2 tethered to a PC desktop or laptop computer 
 
 
 ## About us
-
+[About the Decameron Collective](https://github.com/decameroncollective/MemoryEternal/blob/main/AboutUs)
