@@ -4,7 +4,8 @@ The Decameron Collective is a group of nine scholars and artists and our develop
 
 <img width="5809" height="3284" alt="The Decameron Collective portrait" src="https://github.com/user-attachments/assets/2bd53637-a5a1-47f8-bbf5-c633b40b3914" />   
 From left top: Caitlin Fisher, Monique Tschofen, Kari Maaren / Izabella Pruska-Oldenhof, Jolene Armstrong, Angela Joosse / Lai-Tze Fan, Siobhan O'Flynn, Kelly Egan  
-  
+<br/> 
+<br/>
 **Jolene Armstrong**  
 -PhD University of Alberta, Comparative Literature, 2003  
 -BA, University of Alberta, Anthropology, 1992  
@@ -53,7 +54,7 @@ Izabella’s contributions as a filmmaker to experimental cinema have been recog
 Izabella’s writings on art, cinema, technology and culture, have appeared in academic journals and in anthologies on cinema, media studies, media arts and on screendance. She is an Associate Professor with a cross appointment between the School of Image Arts and the Joint Graduate Program in Communication and Culture, Ryerson University, and is a member of three graduate programs: Communication and Culture; Documentary Media; and Film & Photographic Preservation Collections Management. ​
 View her films and documentations of other works on Vimeo: [https://vimeo.com/izabellapruskaoldenhof](https://vimeo.com/izabellapruskaoldenhof)
 Mubi: [https://mubi.com/en/cast/izabella-pruska-oldenhof](https://mubi.com/en/cast/izabella-pruska-oldenhof)  
-  ​
+<br/>  ​
 **Monique Tschofen**  
 Monique Tschofen is Associate Professor of English at Toronto Metropolitan University, and the Joint York-Toronto Metropolitan Graduate Program in Communications and Culture, a scholar of new media, visual culture, and a digital storyteller, working with poetry, sound art, and experimental film. Her research theorizes the relationship between art and philosophy, asking about the conditions under which an artwork can be an “act of theory."   
 Fusing poetry, algorithmic generation, digital photography, animation, and sound art, with the histories of manuscript culture and book making, Monique's work tests the possibilities of digital worldbuilding and feminist collaborative co-creation by generating new works and scholarship about them. Work with the Decameron Collective has been acknowledged internationally, with Honorable Mention for the Robert Coover Award for a Work of Electronic Literature (Decameron 2.0, 2022), the Digital Humanities Award (Memory Eternal, 2023), and shortlisted for the Wonderbox Digital Opening Up - New Media Writing Prize (Memory Eternal, 2023). 
