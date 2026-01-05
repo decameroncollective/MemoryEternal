@@ -26,4 +26,8 @@ The world runs on an Oculus Quest 2 tethered to a PC desktop or laptop computer 
 
 ## Handset Controls
 
-<img width="1660" height="959" alt="Oculus Controllers" src="https://github.com/user-attachments/assets/b24a697a-c45f-4611-aa03-8a437ec924cd" />
+<img width="1660" height="959" alt="Oculus Controllers" src="https://github.com/user-attachments/assets/b24a697a-c45f-4611-aa03-8a437ec924cd" /> 
+
+
+## About us
+
