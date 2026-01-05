@@ -29,5 +29,5 @@ The world runs on an Oculus Quest 2 tethered to a PC desktop or laptop computer 
 <img width="1660" height="959" alt="Oculus Controllers" src="https://github.com/user-attachments/assets/b24a697a-c45f-4611-aa03-8a437ec924cd" /> 
 
 
-## About us
-[About the Decameron Collective](https://github.com/decameroncollective/MemoryEternal/blob/main/AboutUs)
+## About the Decameron Collective 
+[About the Decameron Collective](https://github.com/decameroncollective/MemoryEternal/blob/main/AboutUs.md)
